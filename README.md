@@ -13,3 +13,7 @@ Kitap okumayı severim ayrıca macera ve aksiyon filim ve dizilerini izlerim
 Melih arkadaşım sayesinde Patika ile tanıştım, burada ki eğitimler ile 
 beraber kodlama yapmaya başladım şuan ilk Web sayfamı oluşturma yolunda bir
 temel atmış bulunmaktayım.
+
+[Patika Profilim](https://app.patika.dev/sibgat)
+
+[GitHub Profilim](https://github.com/Sibgatullahsanli)
