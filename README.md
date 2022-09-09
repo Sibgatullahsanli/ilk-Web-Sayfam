@@ -4,7 +4,7 @@
 Bu repo [PATİKA](https://app.patika.dev/) eğitimimde oluşturduğum ilk html sayfam.  
 
 
-<Sıbgatullah ŞANLI
+Sıbgatullah ŞANLI
 
 ## Hakkımda
 Merhaba. Ben Sıbgatullah ŞANLI 1985 doğumlu olup İstanbul da yaşamaktayım.
